@@ -1,4 +1,3 @@
-;;; Code:
 (setq-default indent-tabs-mode nil)
 
 (require 'package)
@@ -74,5 +73,3 @@
  ;; If there is more than one, they won't work right.
  )
 (provide 'init)
-
-;;; init.el ends here
